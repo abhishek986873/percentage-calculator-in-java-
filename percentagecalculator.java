@@ -17,7 +17,7 @@ public class percentagecalculator {
         int mark5=permittotakeinput.nextInt();
         // adding the marks of all subject
         int sum=mark1+mark2+mark3+mark4+mark5;
-        float divide=sum/5;
+        float divide=sum/5f;
        // int percentage=divide*100;
         System.out.print("Percentage = ");
         System.out.println(divide+"%");
