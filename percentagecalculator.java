@@ -21,9 +21,6 @@ public class percentagecalculator {
        // int percentage=divide*100;
         System.out.print("Percentage = ");
         System.out.println(divide+"%");
-
-
-
     }
 
 }
